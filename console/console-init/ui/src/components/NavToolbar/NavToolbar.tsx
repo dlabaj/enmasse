@@ -11,7 +11,7 @@ import {
   DropdownPosition
 } from "@patternfly/react-core";
 import { QuestionCircleIcon } from "@patternfly/react-icons";
-import { About, User } from "components";
+import { About, User } from "../";
 import { StyleSheet, css } from "@patternfly/react-styles";
 
 const styles = StyleSheet.create({
